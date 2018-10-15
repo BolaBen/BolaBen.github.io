@@ -9,7 +9,7 @@ name: Bolanle Egbedokun
 description: Data Scientist
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/28750526?s=400&u=19adc3b9ca8a5c3724f2c732cb26d6031aa1277f&v=4
 
 #
 # Flags below are optional
@@ -41,13 +41,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://BolaBen.github.io/bolaben
+url: http://BolaBen.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/bolaben"
+baseurl: "/BolaBen.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
