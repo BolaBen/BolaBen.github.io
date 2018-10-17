@@ -132,6 +132,7 @@ English
 Open Source Society University | 2020, Online — BSC
 - 2018 - 2020
 - An Online Self-paced equivalent of Bachelor's Degree
+- [OSSU - Open Source Society University/Curriculum](https://ossu.firebaseapp.com/#/curriculum)
 
 ### CERTIFICATION
 
@@ -258,14 +259,15 @@ Reduction, Anomaly Detection, Recommender Systems, Large Scale Machine
 
 Learning).
 
-#### PROJECTS
+#### PROJECTS & BLOG
 
-Portfolio **—** Data Science & Machine learning projects
+[Data Science & Machine learning projects](https://github.com/BolaBen)
 
-##### Hands_On_DataScience_Projects
+##### [Hands_On_DataScience_Projects](https://github.com/BolaBen/Hands_on_DataScience_Projects)
 
+##### [Machine_learning_Projects_with_Python](https://github.com/BolaBen/Machine_learning_Projects_with_Python)
 
-##### Machine_learning_Projects_with_Python
+##### [My Blog](https://bolaben.github.io/blog/)
 
 #### HOBBIES
 
