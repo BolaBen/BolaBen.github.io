@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Key Machine Learning Terms and Concepts"
-date: 2018-10-15
+date: 2018-10-19
 ---
 
 Before we dive into Step by step data modelling with machine learning, i want us To get familiar with Key Machine Learning Terms and Concepts.
