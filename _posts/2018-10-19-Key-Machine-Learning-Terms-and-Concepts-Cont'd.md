@@ -11,7 +11,7 @@ date: 2018-10-19
 **Anomaly Detection:** A model that flags unusual events or values and helps you discover problems. For example, credit card 
 fraud detection looks for unusual purchases.
 
-[id]: https://github.com/BolaBen/BolaBen.github.io/blob/master/images/anomalous.jpg  "Anomaly Detection"
+![alt text](https://github.com/BolaBen/BolaBen.github.io/blob/master/images/anomalous.jpg "Anomaly Detection")
 
 **Categorical Data:** Data that is organized by categories and that can be divided into groups. For example, a categorical data set
 for autos could specify year, make, model, and price.
