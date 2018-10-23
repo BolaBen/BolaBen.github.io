@@ -10,7 +10,7 @@ Machine learning terms can be confusing. Here are definitions of key terms to he
 
 **Descriptive Analytics, Data Exploration, and Predictive Analytics**.
 
-![]()
+![](/images/des%20exp%20pre.jpg "Descriptive Analytics, Data Exploration, and Predictive Analytics")
 
 **Data exploration** is the process of gathering information about a large and often unstructured data set in order to find characteristics for focused analysis. Data mining refers to automated data exploration.
 
