@@ -9,7 +9,7 @@ Before we dive into Step by step data modelling with machine learning, i want us
 Machine learning terms can be confusing. Here are definitions of key terms to help get along.
 
 **Descriptive Analytics, Data Exploration, and Predictive Analytics**.
-![]("{{/images/des exp pre.jpg"|absolute_url}})
+![](/images/anomalous.jpg)
 
 **Data exploration** is the process of gathering information about a large and often unstructured data set in order to find characteristics for focused analysis. Data mining refers to automated data exploration.
 
