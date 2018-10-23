@@ -10,7 +10,7 @@ Machine learning terms can be confusing. Here are definitions of key terms to he
 
 **Descriptive Analytics, Data Exploration, and Predictive Analytics**.
 
-![](/images/anomalous.jpg)
+![]()
 
 **Data exploration** is the process of gathering information about a large and often unstructured data set in order to find characteristics for focused analysis. Data mining refers to automated data exploration.
 
@@ -19,7 +19,7 @@ Machine learning terms can be confusing. Here are definitions of key terms to he
 **Predictive Analytics** is the process of building models from historical or current data in order to forecast future outcomes.
 
 **Supervised and Unsupervised Learning**
-![alt text](https://github.com/BolaBen/BolaBen.github.io/blob/master/images/supervise.jpg "Supervised and Unsupervised Learning")
+![alt text](/images/supervise.jpg "Supervised and Unsupervised Learning")
 
 **Supervised Learning Algorithms** are trained with labeled data - in other words, data comprised of examples of the answers wanted. For instance, a model that identifies fraudulent credit card use would be trained from a data set with labeled data points of known fraudulent and valid charges. Most machine learning is supervised.
 
@@ -28,11 +28,11 @@ Machine learning terms can be confusing. Here are definitions of key terms to he
 **Model Training and Evaluation**
 
 **A Machine Learning model** is an abstraction of the question you are trying to answer or the outcome you want to predict. Models are trained and evaluated from existing data.
-![alt text](https://github.com/BolaBen/BolaBen.github.io/blob/master/images/a%20machine%20learning%20model.jpg "A Machine Learning model")
+![alt text](/images/a%20machine%20learning%20model.jpg "A Machine Learning model")
 
 **Training Data**
 
-![alt text](https://github.com/BolaBen/BolaBen.github.io/blob/master/images/training%20data.jpg "Training Data")
+![alt text](/images/training%20data.jpg "Training Data")
 
 When you train a model from data, you use a known data set and make adjustments to the model based on the data characteristics to get the most accurate answer. In Azure Machine Learning, a model is built from an algorithm module that processes training data and functional modules, such as a scoring module.
 
@@ -40,4 +40,4 @@ In Supervised Learning, if you're training a fraud detection model, you use a se
 
 **Evaluation Data**
 
-![alt text](https://github.com/BolaBen/BolaBen.github.io/blob/master/images/evaluation%20data.jpg "Evaluation")
+![alt text](/images/evaluation%20data.jpg "Evaluation")
