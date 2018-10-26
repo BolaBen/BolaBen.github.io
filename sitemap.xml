@@ -10,7 +10,7 @@
 
     <url>
 
-        <loc>http://bolaben.com{{ post.url | remove: 'index.html' }}</loc>
+        <loc>http://bolaben.github.io{{ post.url | remove: 'index.html' }}</loc>
 
     </url>
 
@@ -26,7 +26,7 @@
 
     <url>
 
-        <loc>http://jmcglone.com{{ page.url | remove: 'index.html' }}</loc>
+        <loc>http://bolaben.github.io{{ page.url | remove: 'index.html' }}</loc>
 
     </url>
 
