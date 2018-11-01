@@ -53,3 +53,7 @@ and refining them to make better business decisions.
 A good chatbot should be able to handle most of the user interactions successfully, and when not, you can improve it.
 
 Finally, chatbots are universally useful, regardless of whether you are a one-person operation or a fortune 500 company.
+
+pls feel free to interact with Florence! A flower shop chatbot I developed for a demo. https://lnkd.in/dNqxVMf 
+hesitate not to reach me for a full Chatbot Development of any business size.
+
